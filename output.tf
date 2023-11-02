@@ -1,11 +1,11 @@
 output "num" {
-  value = val.num
+  value = var.num
 }
 
 output "text" {
-  value = val.text
+  value = var.text
 }
 
 output "flag" {
-  value = val.flag
+  value = var.flag
 }
