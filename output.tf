@@ -1,14 +1,14 @@
 output "num" {
   type = number
-  default = val.num
+  value = val.num
 }
 
 output "text" {
   type = string
-  default = val.text
+  value = val.text
 }
 
 output "flag" {
   type = bool
-  default = val.flag
+  value = val.flag
 }
