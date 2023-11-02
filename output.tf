@@ -5,7 +5,7 @@ output "num" {
 
 output "text" {
   type = string
-  default = "val.text
+  default = val.text
 }
 
 output "flag" {
