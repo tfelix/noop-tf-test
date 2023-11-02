@@ -1,6 +1,6 @@
-output "count" {
+output "num" {
   type = number
-  default = val.count
+  default = val.num
 }
 
 output "text" {
