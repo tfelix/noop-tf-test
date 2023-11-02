@@ -1,4 +1,4 @@
-variable "count" {
+variable "num" {
   type = number
   default = 0
 }
