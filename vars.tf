@@ -17,7 +17,7 @@ variable "customer" {
 
 variable "id" {
   type = number
-  default = "foo"
+  default = 1337
 }
 
 
