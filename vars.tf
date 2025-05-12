@@ -45,3 +45,8 @@ variable "flag" {
   type = bool
   default = false
 }
+
+variable "list" {
+    type = list
+    default = ["a", "b", "c"]
+}

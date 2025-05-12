@@ -9,3 +9,7 @@ output "text" {
 output "flag" {
   value = var.flag
 }
+
+output "list" {
+  value = var.list
+}
