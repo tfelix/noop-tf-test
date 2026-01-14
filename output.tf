@@ -6,10 +6,10 @@ output "text" {
   value = var.text
 }
 
-output "flag" {
-  value = var.flag
+output "permission" {
+  value = var.permission
 }
 
-output "list" {
-  value = var.list
+output "code" {
+  value = var.code
 }
