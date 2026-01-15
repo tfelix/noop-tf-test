@@ -17,5 +17,4 @@ variable "code" {
 variable "env_value" {
   type        = string
   description = "Value from environment variable"
-  default     = ""
 }
