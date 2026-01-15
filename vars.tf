@@ -13,3 +13,9 @@ variable "permission" {
 variable "code" {
   type = any
 }
+
+variable "env_value" {
+  type        = string
+  description = "Value from environment variable"
+  default     = ""
+}

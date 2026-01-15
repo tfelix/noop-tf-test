@@ -13,3 +13,7 @@ output "permission" {
 output "code" {
   value = var.code
 }
+
+output "env_value" {
+  value = var.env_value
+}
